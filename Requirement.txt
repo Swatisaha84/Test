@@ -1,0 +1,53 @@
+As requested, sharing additional info on why a Gen AI Tech Lead travelling or deploying in UK is critical for this engagement which is a first of kind for Mortgage Business. LBG is the largest UK lender and many building society logos look up on innovation on LBG. TCS is the strategic IT partner in the platform and hence customer without RFP waiting for TCS to drive this Gen AI initiative as well
+
+ 
+
+Within LBG Mortgages Platform Gen AI is one of focus item, customer is aspiring to leverage Generative AI to transform customer and colleague experiences across the Homes Platform by embedding intelligent automation, personalization, and decision support into core journeys.
+
+ 
+
+Pre-Experience – we can negotiate as long as they are good Gen AI engineers. UK role is the first priority to establish the team around that
+
+ 
+
+Strategic Objectives:
+
+Accelerate Use Case Delivery: Rapidly prototype and scale Gen AI use cases that align with business priorities (e.g., customer support, property recommendations, agent productivity).
+
+Central Guardrails & Accelerators: Operate within the enterprise-wide Gen AI governance framework, ensuring responsible AI use, data privacy, and model safety.
+
+Platform Enablement: Build reusable Gen AI components to support cross-lab adoption.
+
+ 
+
+Squad Setup Aspiration:
+
+Onshore AI Tech Lead with Architecting (1)
+
+Owns technical vision, architecture, and alignment with LBG central AI platforms.
+
+Acts as the bridge between product, engineering, and enterprise AI teams.
+
+Drives experimentation, model selection, and integration strategies.
+
+Use Case prioritisation and support RoI assessment.
+
+Offshore Developers (2-4)
+
+Focused on environment setup, pipeline development, prompt engineering, and integration tasks.
+
+Work in tandem with the tech lead to deliver prioritized use cases.
+
+ 
+
+Initial Responsibilities:
+
+Set up Gen AI environments.
+
+Prioritize use cases with product and business stakeholders.
+
+Deliver MVPs under LBG central guardrails.
+
+Collaborate with platform teams to reuse accelerators and contribute back.
+
+ 
